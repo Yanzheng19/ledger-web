@@ -1,0 +1,8 @@
+{
+  "name":"我的账本",
+  "short_name":"账本",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f8f3ee",
+  "theme_color":"#a86b4a"
+}
